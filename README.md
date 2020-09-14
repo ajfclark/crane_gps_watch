@@ -1,7 +1,7 @@
 Crane GPS Watch client for Linux and Windows
 ===============================================
 
-Copyright (C) 2014-2015 <mru@sisyphus.teil.cc>
+Copyright (C) 2014-2015 <rudolf.muehlbauer@gmail.com>
 
 
 [![Build Status](https://travis-ci.org/mru00/crane_gps_watch.svg?branch=master)](https://travis-ci.org/mru00/crane_gps_watch)  [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.me/Muehlbauer)
@@ -17,12 +17,12 @@ Supported watches and firmware version:
 * `1.20.03_KRIP0_02` [some other crane watch](https://www.krippl-watches.com/wp-content/uploads/2014/10/armbanduhren_gps_1.jpg)
 * `1.20.22_DLES0_00` [Conrad Multi NAV-3](http://www.produktinfo.conrad.com/datenblaetter/300000-324999/323447-an-01-de-GPS_SPORT_PULSUHR_MULTI_NAV_3.pdf)
 * `1.20.21_DLES0_00` [Conrad GPS Nav II](http://www.conrad.de/ce/de/product/372884/Multi-NAV-2-GPS-Pulsuhr-mit-Brustgurt-Schwarz)
+* `1.20.21_DLES0_00` [Pyle PSWGP405](http://www.amazon.com/dp/B005E8MVXM/)
 * `1.20.26_RUNT0_00` [Runtastic Gps Watch](https://www.runtastic.com/shop/en/runtastic-gps-watch-with-heart-rate-monitor)
 
 As the watch is commonly rebranded, the following watches might just work:
 
 * [Latitude NAV Master II](http://www.latitude.com.hk/dbimages/document/856/gps_series_catalog.pdf)
-* [Pyle Gps watch](http://www.pyleaudio.com/sku/PSWGP405BK/GPS-Watch-w-Coded-Heart-Rate-Transmission,-Navigation,-Speed,-Distance,-Workout-Memory,-Compass,--PC-link--(Black-Color))
 * [Ascen Smart GPS watch GPS300](http://forums.watchuseek.com/f296/new-comer-ascen-gps-watch-comprehensive-review-pics-630057.html)
 * [Tech4O Discover GPS](http://tech4o.shptron.com/p/discover-gps/tech4o_outdoor-multifunction_gps_discover-gps?pp=8)
 * [New Balance NX990](http://www.amazon.com/New-Balance-Watches-Cardio-Trainer/dp/B009H9RRBU)
@@ -149,7 +149,7 @@ wget https://github.com/mru00/crane_gps_watch/archive/master.zip
 unzip master.zip
 
 
-cd crane_gps_watch_client
+cd crane_gps_watch
 
 
 ## build the software
@@ -275,3 +275,4 @@ Thanks:
 * Yarema
 * Wolfram
 * Peter
+* All contributors!
